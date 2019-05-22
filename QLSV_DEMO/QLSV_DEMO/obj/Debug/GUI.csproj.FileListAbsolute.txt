@@ -1,0 +1,32 @@
+G:\GIANG DAY\CNLTTH\CNLTTH 2019 HK2\Buoi 0 Support\QLSV_DEMO\QLSV_DEMO\bin\Debug\QLSV_DEMO.exe.config
+G:\GIANG DAY\CNLTTH\CNLTTH 2019 HK2\Buoi 0 Support\QLSV_DEMO\QLSV_DEMO\bin\Debug\QLSV_DEMO.exe
+G:\GIANG DAY\CNLTTH\CNLTTH 2019 HK2\Buoi 0 Support\QLSV_DEMO\QLSV_DEMO\bin\Debug\QLSV_DEMO.pdb
+G:\GIANG DAY\CNLTTH\CNLTTH 2019 HK2\Buoi 0 Support\QLSV_DEMO\QLSV_DEMO\obj\Debug\GUI.csprojAssemblyReference.cache
+G:\GIANG DAY\CNLTTH\CNLTTH 2019 HK2\Buoi 0 Support\QLSV_DEMO\QLSV_DEMO\obj\Debug\QLSV_DEMO.FormMain.resources
+G:\GIANG DAY\CNLTTH\CNLTTH 2019 HK2\Buoi 0 Support\QLSV_DEMO\QLSV_DEMO\obj\Debug\QLSV_DEMO.Properties.Resources.resources
+G:\GIANG DAY\CNLTTH\CNLTTH 2019 HK2\Buoi 0 Support\QLSV_DEMO\QLSV_DEMO\obj\Debug\GUI.csproj.GenerateResource.cache
+G:\GIANG DAY\CNLTTH\CNLTTH 2019 HK2\Buoi 0 Support\QLSV_DEMO\QLSV_DEMO\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+G:\GIANG DAY\CNLTTH\CNLTTH 2019 HK2\Buoi 0 Support\QLSV_DEMO\QLSV_DEMO\obj\Debug\QLSV_DEMO.exe
+G:\GIANG DAY\CNLTTH\CNLTTH 2019 HK2\Buoi 0 Support\QLSV_DEMO\QLSV_DEMO\obj\Debug\QLSV_DEMO.pdb
+G:\GIANG DAY\CNLTTH\CNLTTH 2019 HK2\Buoi 0 Support\QLSV_DEMO\QLSV_DEMO\obj\Debug\QLSV_DEMO.UCs.UC_SinhVien.resources
+G:\GIANG DAY\CNLTTH\CNLTTH 2019 HK2\Buoi 0 Support\QLSV_DEMO\QLSV_DEMO\obj\Debug\QLSV_DEMO.UCs.UC_Lop.resources
+G:\GIANG DAY\CNLTTH\CNLTTH 2019 HK2\Buoi 0 Support\QLSV_DEMO\QLSV_DEMO\bin\Debug\DAL.exe
+G:\GIANG DAY\CNLTTH\CNLTTH 2019 HK2\Buoi 0 Support\QLSV_DEMO\QLSV_DEMO\bin\Debug\DAL.pdb
+G:\GIANG DAY\CNLTTH\CNLTTH 2019 HK2\Buoi 0 Support\QLSV_DEMO\QLSV_DEMO\bin\Debug\DAL.exe.config
+G:\GIANG DAY\CNLTTH\CNLTTH 2019 HK2\Buoi 0 Support\QLSV_DEMO\QLSV_DEMO\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\DinhDan\Downloads\QLSV_DEMO\QLSV_DEMO\bin\Debug\QLSV_DEMO.exe.config
+C:\Users\DinhDan\Downloads\QLSV_DEMO\QLSV_DEMO\bin\Debug\QLSV_DEMO.exe
+C:\Users\DinhDan\Downloads\QLSV_DEMO\QLSV_DEMO\bin\Debug\QLSV_DEMO.pdb
+C:\Users\DinhDan\Downloads\QLSV_DEMO\QLSV_DEMO\bin\Debug\DAL.exe
+C:\Users\DinhDan\Downloads\QLSV_DEMO\QLSV_DEMO\bin\Debug\DAL.pdb
+C:\Users\DinhDan\Downloads\QLSV_DEMO\QLSV_DEMO\bin\Debug\DAL.exe.config
+C:\Users\DinhDan\Downloads\QLSV_DEMO\QLSV_DEMO\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\DinhDan\Downloads\QLSV_DEMO\QLSV_DEMO\obj\Debug\QLSV_DEMO.FormMain.resources
+C:\Users\DinhDan\Downloads\QLSV_DEMO\QLSV_DEMO\obj\Debug\QLSV_DEMO.Properties.Resources.resources
+C:\Users\DinhDan\Downloads\QLSV_DEMO\QLSV_DEMO\obj\Debug\QLSV_DEMO.UCs.UC_Lop.resources
+C:\Users\DinhDan\Downloads\QLSV_DEMO\QLSV_DEMO\obj\Debug\QLSV_DEMO.UCs.UC_SinhVien.resources
+C:\Users\DinhDan\Downloads\QLSV_DEMO\QLSV_DEMO\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\DinhDan\Downloads\QLSV_DEMO\QLSV_DEMO\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\DinhDan\Downloads\QLSV_DEMO\QLSV_DEMO\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\DinhDan\Downloads\QLSV_DEMO\QLSV_DEMO\obj\Debug\QLSV_DEMO.exe
+C:\Users\DinhDan\Downloads\QLSV_DEMO\QLSV_DEMO\obj\Debug\QLSV_DEMO.pdb

@@ -1,0 +1,12 @@
+G:\GIANG DAY\CNLTTH\CNLTTH 2019 HK2\Buoi 0 Support\QLSV_DEMO\DAL\bin\Debug\DAL.exe.config
+G:\GIANG DAY\CNLTTH\CNLTTH 2019 HK2\Buoi 0 Support\QLSV_DEMO\DAL\bin\Debug\DAL.exe
+G:\GIANG DAY\CNLTTH\CNLTTH 2019 HK2\Buoi 0 Support\QLSV_DEMO\DAL\bin\Debug\DAL.pdb
+G:\GIANG DAY\CNLTTH\CNLTTH 2019 HK2\Buoi 0 Support\QLSV_DEMO\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\GIANG DAY\CNLTTH\CNLTTH 2019 HK2\Buoi 0 Support\QLSV_DEMO\DAL\obj\Debug\DAL.exe
+G:\GIANG DAY\CNLTTH\CNLTTH 2019 HK2\Buoi 0 Support\QLSV_DEMO\DAL\obj\Debug\DAL.pdb
+C:\Users\DinhDan\Downloads\QLSV_DEMO\DAL\bin\Debug\DAL.exe.config
+C:\Users\DinhDan\Downloads\QLSV_DEMO\DAL\bin\Debug\DAL.exe
+C:\Users\DinhDan\Downloads\QLSV_DEMO\DAL\bin\Debug\DAL.pdb
+C:\Users\DinhDan\Downloads\QLSV_DEMO\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\DinhDan\Downloads\QLSV_DEMO\DAL\obj\Debug\DAL.exe
+C:\Users\DinhDan\Downloads\QLSV_DEMO\DAL\obj\Debug\DAL.pdb
